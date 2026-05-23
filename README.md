@@ -1,5 +1,5 @@
 # Pesta-Babi
-Analisis ilmiah terhadap isi dokumenter yang nobar nya dibubarkan TNI dan wakil Rektor. Kata wakil rektor itu lebih baik nobar bola saja. 
+Analisis ilmiah terhadap isi dokumenter yang nobar nya ada yang dibubarkan oleh oknum TNI dan ada yang oleh wakil Rektor. Kata wakil rektor itu lebih baik nobar bola saja. 
 # NotebookLM 
 >source:Documentary: Pesta Babi and Book: Pendidikan Berkebudayaan
 
